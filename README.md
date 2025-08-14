@@ -16,7 +16,7 @@ A **bash-based automation tool** for passive subdomain enumeration. The script i
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/passive-subdomain-enum.git
+git clone https://github.com/akshigour12/passive-subdomain-enum.git
 cd passive-subdomain-enum
 ````
 
