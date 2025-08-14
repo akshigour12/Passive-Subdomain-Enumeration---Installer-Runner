@@ -70,4 +70,4 @@ chmod +x install_and_run_enum.sh
 * Creates a directory `enum_results/` (if not present)
 * Saves final subdomains in `final_subs.txt` or a custom file defined with `-o`
 
-![Screenshot Description](https://github.com/akshigour12/Passive-Subdomain-Enumeration/blob/main/screenshot.png?raw=true)
+![Screenshot Description](screenshot.png)
