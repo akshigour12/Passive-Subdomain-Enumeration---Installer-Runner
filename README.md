@@ -16,7 +16,7 @@ A **bash-based automation tool** for passive subdomain enumeration. The script i
 
 1. Clone the repository:  
 ```bash
-https://github.com/akshigour12/Passive-Subdomain-Enumeration---Installer-Runner.git
+git clone https://github.com/akshigour12/Passive-Subdomain-Enumeration---Installer-Runner.git
 cd Passive-Subdomain-Enumeration---Installer-Runner
 ````
 
